@@ -1,0 +1,9 @@
+{
+  "tricolor": true,
+  "generate_icon": true,
+
+  "darken_factor": 0.5,
+  
+  "input_file": "input.png",
+  "base_file": "bases/ore-tri.png"
+}
